@@ -1,9 +1,1 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>Kalia Digital</title>
-  </head>
-  <body>
-    <h1>Welcome to Kalia</h1>
-  </body>
-</html>
+
